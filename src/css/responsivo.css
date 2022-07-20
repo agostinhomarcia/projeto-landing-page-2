@@ -1,3 +1,11 @@
+
+@media screen and (max-width:990px) {
+    .img-logo{
+        display: none;
+    }
+}
+
+
 @media screen and (max-width:760px){
     .container{
         flex-direction: column;

@@ -9,12 +9,17 @@ body{
     
 }
 
+
 main{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     margin-top: 25px;
 }
+.img-logo{
+    width: 40px;
+}
+
 h1{
     color: #12d612;
     font-size: 55px;
