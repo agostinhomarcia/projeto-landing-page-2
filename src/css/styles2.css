@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(34,34,34);
+    color: #fff;
+    font-family: 'Edu VIC WA NT Beginner', "cursive", sans-serif;
+    max-width: 1200px;
+    padding: 15px;
+    
+
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+h1{
+    color: #12d612;
+    font-size: 55px;
+    font-weight: 600;
+}
+.imgs{
+    margin-top: 55px;
+    
+}
+img{
+    width: 180px;
+    margin: 20px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    
+}
+section{
+    display: flex;
+    flex-direction: column;
+}
+
