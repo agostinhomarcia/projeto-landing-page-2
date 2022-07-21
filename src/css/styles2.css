@@ -1,7 +1,7 @@
 body{
     background-color: rgb(34,34,34);
     color: #fff;
-    font-family: 'Edu VIC WA NT Beginner', "cursive", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     max-width: 1200px;
     padding: 15px;
     
@@ -16,6 +16,7 @@ main{
     align-items: center;
     margin-top: 25px;
 }
+
 .img-logo{
     width: 40px;
 }
